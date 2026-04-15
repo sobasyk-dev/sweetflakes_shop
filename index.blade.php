@@ -72,7 +72,7 @@
                 </p>
                 
                 <div class="flex flex-col sm:flex-row items-center gap-5 justify-center">
-                    <a href="{{ route('customer.cs_menu') }}" class="w-full sm:w-auto px-12 py-5 bg-caramel-500 text-cocoa-900 font-black rounded-full shadow-xl shadow-caramel-500/20 hover:bg-caramel-400 active:scale-95 transition-all uppercase tracking-widest text-xs flex items-center gap-2">
+                    <a href="{{ route('customer.cs_welcome') }}" class="w-full sm:w-auto px-12 py-5 bg-caramel-500 text-cocoa-900 font-black rounded-full shadow-xl shadow-caramel-500/20 hover:bg-caramel-400 active:scale-95 transition-all uppercase tracking-widest text-xs flex items-center gap-2">
                         Enter Boutique 
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
                     </a>
